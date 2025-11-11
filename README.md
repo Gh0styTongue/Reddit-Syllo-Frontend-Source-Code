@@ -6,7 +6,7 @@ Extracted from [https://syllo-app-evua8s-0-0-93-webview.devvit.net/](https://syl
 
 Because Reddit forgot to disable sourcemaps in production on the Syllo Prod website 🙃
 
-As an interesting discovery, I've archived them here on GitHub for educational purposes.
+I've archived them here on GitHub for educational purposes.
 
 ## Disclaimer
 
