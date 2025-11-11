@@ -492,7 +492,7 @@
                 }), e)
             }
         };
-    en.__PosthogExtensions__ = en.__PosthogExtensions__ || {}, en.__PosthogExtensions__.postHogWebVitalsCallbacks = rn, en.postHogWebVitalsCallbacks = rn
+    en.__PosthogExtensions__ = en.__PosthogExtensions__ || {}, en.__PosthogExtensions__.postHogWebVitalsCallbacks = rn, en.postHogWebVitalsCallbacks = r
 }();
 //# sourceMappingURL=web-vitals.js.map
 
