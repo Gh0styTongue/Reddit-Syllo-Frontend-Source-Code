@@ -1,10 +1,10 @@
-# Reddit Syllo App frontend source code archive
+# Reddit r/Syllo App frontend source code archive
 
-Extracted from [https://syllo-app-evua8s-0-0-93-webview.devvit.net/](https://syllo-app-evua8s-0-0-93-webview.devvit.net/). Saved using the Chrome extension [Save All Resources](https://chromewebstore.google.com/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb).
+Extracted from [https://www.reddit.com/r/syllo/](https://www.reddit.com/r/syllo/). Saved using the Chrome extension [Save All Resources](https://chromewebstore.google.com/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb).
 
 ### How is this possible?
 
-Because Reddit forgot to disable sourcemaps in production on the Syllo Prod website 🙃
+Because Reddit forgot to disable sourcemaps in production on the r/Syllo app 🙃
 
 I've archived them here on GitHub for educational purposes.
 
@@ -24,5 +24,5 @@ The content in this repository belongs to Reddit, Inc. If there are any copyrigh
 
 ## Related
 
-- [Reddit Syllo App](https://syllo-app-evua8s-0-0-93-webview.devvit.net/)
+- [Reddit Syllo App](https://www.reddit.com/r/syllo/)
 - [Save All Resources Extension](https://chromewebstore.google.com/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb)
